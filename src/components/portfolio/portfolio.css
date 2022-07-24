@@ -24,7 +24,7 @@
 }
 
 .portfolio__item-image img {
-    min-height: 310px
+    height: 400px;
 }
 
 .portfolio__item h3 {

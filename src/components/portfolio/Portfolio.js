@@ -13,7 +13,7 @@ const data = [
     image: IMG1,
     title: 'Modern Dynamic Dashboard',
     git: 'https://github.com/kingbee1/dashboard',
-    demo: 'http://dashboard-drab-tau.vercel.app/'
+    demo: 'https://missipi-dashboard.vercel.app/'
   },
   {
     id: 2,
@@ -25,16 +25,16 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: 'Modern Dynamic Dashboard',
+    title: 'Webpage About The Universe',
     git: 'https://github.com/kingbee1/discover',
     demo: 'http://discover-beta.vercel.app/'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Webpage About The Universe',
-    git: 'https://github.com/kingbee1/dashboard',
-    demo: 'https://discover-beta.vercel.app/'
+    title: 'To-do App',
+    git: 'https://github.com/kingbee1/my-todo-app',
+    demo: 'https://my-todo-app-xi.vercel.app/'
   },
   {
     id: 5,
@@ -46,9 +46,9 @@ const data = [
    {
     id: 6,
     image: IMG6,
-    title: 'Modern Dynamic Dashboard',
-    git: 'https://github.com/kingbee1/dashboard',
-    demo: 'http://dashboard-drab-tau.vercel.app/'
+    title: 'Weather App',
+    git: 'https://github.com/kingbee1/weather-app',
+    demo: 'https://kingbee1.github.io/weather-app/'
   },
 ]
 

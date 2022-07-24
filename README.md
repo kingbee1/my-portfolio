@@ -1,4 +1,9 @@
-# Here is My Portfolio
+✨# Check Out My Portfolio ✨
+
+I hosted it on vercel, [Click Here](https://kingbee.vercel.app).
+
+I built this project using Reactjs to make it easy for you to see my past projects and all I am capable of. Give it look.
+
 <!-- 
 Here is a link to the Live Demo (https://google.com).
 
