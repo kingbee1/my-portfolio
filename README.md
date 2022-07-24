@@ -11,4 +11,4 @@ I built this project using Reactjs and hosted it on vercel, [click Here](https:/
 * Swiper
 * Emaijs
 
-Feel free to share your views with me, I will reall appreciate that.  You can also be a contributor to this or any of my [projects] (https://github.com/kingbee1?tab=repositories). Cheers! :beers:
+Feel free to share your views with me, I will reall appreciate that.  You can also be a contributor to this or any of my [projects](https://github.com/kingbee1?tab=repositories). Cheers! :beers:
