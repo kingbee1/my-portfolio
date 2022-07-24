@@ -1,5 +1,5 @@
 import React from 'react'
-import CV from '../../assets/cv.jpg'
+import CV from '../../assets/Hodonu Abiodun FE Resume 2022.pdf'
 
 const CTA = () => {
   return (

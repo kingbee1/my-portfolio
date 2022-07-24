@@ -16,27 +16,27 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon"/> 
-              <p>I solve problems</p>
+              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nam nulla magnam. </p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"/> 
-              <p>I cook and clean</p>
+              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nam nulla magnam. </p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"/> 
-              <p>I cook and clean</p>
+              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nam nulla magnam. </p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"/> 
-              <p>I cook and clean</p>
+              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nam nulla magnam. </p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"/> 
-              <p>I cook and clean</p>
+              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nam nulla magnam. </p>
             </li>
           </ul>
         </articles>
@@ -48,27 +48,27 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon"/> 
-              <p>I cook and clean</p>
+              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nam nulla magnam. </p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"/> 
-              <p>I cook and clean</p>
+              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nam nulla magnam. </p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"/> 
-              <p>I cook and clean</p>
+              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nam nulla magnam. </p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"/> 
-              <p>I cook and clean</p>
+              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"/> 
-              <p>I cook and clean</p>
+              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
             </li>
           </ul>
         </articles>
@@ -80,27 +80,27 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon"/> 
-              <p>I cook and clean</p>
+              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nam nulla magnam. </p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"/> 
-              <p>I cook and clean</p>
+              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nam nulla magnam. </p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"/> 
-              <p>I cook and clean</p>
+              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nam nulla magnam. </p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"/> 
-              <p>I cook and clean</p>
+              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nam nulla magnam. </p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"/> 
-              <p>I cook and clean</p>
+              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nam nulla magnam. </p>
             </li>
           </ul>
         </articles>

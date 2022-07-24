@@ -21,19 +21,19 @@ const data = [
     review: 'Kingbee is an awesome person, it was really a pleasure working with him. He went in and out for me. I will definitely work with him over and over again'
   },
   {
-    avatar: avt1,
+    avatar: avt2,
     name: 'Akin Remi',
-    review: 'Kingbee is an awesome person, it was really a pleasure working with him. So efficient and reliable. I will definitely work with him over and over again'
+    review: 'I work with Abiodun from time to time. His delivery and customer service is what makes him standout. I will always call him and refer him!'
   },
   {
-    avatar: avt1,
+    avatar: avt3,
     name: 'Bella',
-    review: 'Kingbee is an awesome person, it was really a pleasure working with him. So efficient and reliable. I will definitely work with him over and over again'
+    review: 'He is simply amazing, I do not have words.'
   },
 
   {
-    avatar: avt1,
-    name: 'Bella',
+    avatar: avt4,
+    name: 'Johnson',
     review: 'Kingbee is an awesome person, it was really a pleasure working with him. So efficient and reliable. I will definitely work with him over and over again'
   } 
 ]
