@@ -17,7 +17,7 @@ const Contact = () => {
 
   return (
     <section id='contact'>
-      <h5>Get in Touch</h5>
+      <h5>Ready for business??</h5>
       <h2>Contact Me</h2>
 
       <div className="container contact__container">
@@ -26,7 +26,7 @@ const Contact = () => {
             <MdOutlineEmail className='contact__option-icon' />
             <h4>Email</h4>
             <h5>abiodunhodonu@gmail.com</h5>
-            <a href="mailto:abiodunhodonu@gmail.com" target='_blank'>Send me a mail</a>
+            <a href="mailto:abiodunhodonu@gmail.com" target='_blank'>Send me an email</a>
           </article>
 
           <article className="contact__option">
