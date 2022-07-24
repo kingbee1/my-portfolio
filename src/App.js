@@ -18,6 +18,7 @@ function App() {
       <Nav />
       <About />
       <Experience />
+      <Services />
       <Footer />
       <Portfolio />
       <Testimonials />
