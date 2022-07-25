@@ -51,7 +51,7 @@ input, textarea {
     color: var(--color-white);
 }
 
-.contact__message {
+/* .contact__message {
     width: 100%;
     position: relative;
     margin-bottom: 60px;
@@ -66,7 +66,7 @@ input, textarea {
     animation: buttons .3s linear;
     display: none;
 
-}
+} */
 
 @media screen and (max-width:1024px) {
     .container.contact__container  {

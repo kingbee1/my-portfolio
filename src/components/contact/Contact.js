@@ -11,9 +11,12 @@ import emailjs from 'emailjs-com'
 const Contact = () => {
   const form = useRef();
   const sendEmail = (e) => {
+    ghjj
     e.preventDefault();
 
-    emailjs.sendForm('service_bzslk9m', 'template_owi1gm7', form.current, 'P5dvbpBiTb2SfsfkA')
+    emailjs.sendForm('service_bzslk9m', 'template_owi1gm7', form.current, 'P5dvbpBiTb2SfsfkA').then(() => {
+      jjjkkjk
+    })
     e.target.reset()
   
   };
@@ -52,9 +55,9 @@ const Contact = () => {
           <button type='submit' className='btn btn-primary'>Send Message</button>
         </form>
 
-        <div className='contact__message'>
+        {/* <div className='contact__message'>
           <div className='contact__success' id='success'>Message Sent</div>
-        </div>
+        </div> */}
 
       </div>
       

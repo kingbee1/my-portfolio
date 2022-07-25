@@ -43,9 +43,11 @@ const About = () => {
             </article>
           </div>
 
-          <p>I will be back to talk shit about 
-            myself later on. Lorem ipsum dolor sit amet consectetur, adipisicing elit. 
-            Necessitatibus iure autem error eius numquam facere qui tenetur eaque sequi ab.
+          <p>I am an easy going person that just finds peace in getting to the root of a problem 
+            and solving it.
+            I love building apps that solve everyday challenge of people around me because the goal
+            is to make the world a better place by writing onr line of code at a time.
+            If you are willing and ready to turn ideas into reality, keep scrolling.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
