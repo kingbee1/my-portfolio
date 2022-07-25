@@ -34,7 +34,7 @@ const data = [
   {
     avatar: avt4,
     name: 'Johnson',
-    review: 'Kingbee is an awesome person, it was really a pleasure working with him. So efficient and reliable. I will definitely work with him over and over again'
+    review: 'Abiodun is an awesome person, it was really a pleasure working with him. So efficient and reliable. I will definitely work with him over and over again'
   } 
 ]
 

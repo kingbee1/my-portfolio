@@ -5,6 +5,9 @@ import { BsWhatsapp } from 'react-icons/bs'
 import { useRef } from 'react';
 import emailjs from 'emailjs-com'
 
+
+
+
 const Contact = () => {
   const form = useRef();
   const sendEmail = (e) => {
@@ -16,9 +19,14 @@ const Contact = () => {
   };
 
   return (
+    
     <section id='contact'>
+      {sendEmail === true ? (
+        alert('great')
+      ) : ''}
       <h5>Ready for business??</h5>
       <h2>Contact Me</h2>
+      
 
       <div className="container contact__container">
         <div className="contact__options">
@@ -43,6 +51,11 @@ const Contact = () => {
           <textarea name='message' rows='7' placeholder='Type your message' required></textarea>
           <button type='submit' className='btn btn-primary'>Send Message</button>
         </form>
+
+        <div className='contact__message'>
+          <div className='contact__success' id='success'>Message Sent</div>
+        </div>
+
       </div>
       
     </section>
