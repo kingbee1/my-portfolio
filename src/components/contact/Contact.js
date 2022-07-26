@@ -4,18 +4,20 @@ import { MdOutlineEmail } from 'react-icons/md'
 import { BsWhatsapp } from 'react-icons/bs'
 import { useRef } from 'react';
 import emailjs from 'emailjs-com'
+import { useState } from 'react';
 
 
 
 
 const Contact = () => {
+  const [isSend, setIsSend] = useState('className:contact__success')
   const form = useRef();
   const sendEmail = (e) => {
-    ghjj
+    ''
     e.preventDefault();
 
     emailjs.sendForm('service_bzslk9m', 'template_owi1gm7', form.current, 'P5dvbpBiTb2SfsfkA').then(() => {
-      jjjkkjk
+      ''
     })
     e.target.reset()
   
@@ -24,13 +26,7 @@ const Contact = () => {
   return (
     
     <section id='contact'>
-      {sendEmail === true ? (
-        alert('great')
-      ) : ''}
-      <h5>Ready for business??</h5>
-      <h2>Contact Me</h2>
       
-
       <div className="container contact__container">
         <div className="contact__options">
           <article className="contact__option">
@@ -52,12 +48,18 @@ const Contact = () => {
           <input type='text' name='name' placeholder='Full Name' required />
           <input type='email' name='email' placeholder='Your email address' required />
           <textarea name='message' rows='7' placeholder='Type your message' required></textarea>
-          <button type='submit' className='btn btn-primary'>Send Message</button>
+          <button type='submit' className='btn btn-primary' onClick={() => setIsSend({isSend})} >Send Message</button>
         </form>
 
-        {/* <div className='contact__message'>
+        <div className='contact__message'>
           <div className='contact__success' id='success'>Message Sent</div>
-        </div> */}
+        </div>
+
+        {/* 
+        swal("This modal will disappear soon!", {
+  buttons: false,
+  timer: 3000,
+}); */}
 
       </div>
       

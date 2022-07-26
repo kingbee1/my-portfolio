@@ -47,7 +47,7 @@ const About = () => {
             and solving it.
             I love building apps that solve everyday challenge of people around me because the goal
             is to make the world a better place by writing onr line of code at a time.
-            If you are willing and ready to turn ideas into reality, keep scrolling.
+            If you are willing and ready to turn ideas into reality, then we should talk.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
