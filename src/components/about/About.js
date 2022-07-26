@@ -4,6 +4,7 @@ import ME from '../../assets/me2.png'
 import { FaAward } from 'react-icons/fa'
 import { FaUsers } from 'react-icons/fa'
 import { RiFolderOpenFill } from 'react-icons/ri'
+import swal from 'sweetalert'
 
 
 

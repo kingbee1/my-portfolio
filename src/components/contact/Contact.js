@@ -5,6 +5,7 @@ import { BsWhatsapp } from 'react-icons/bs'
 import { useRef } from 'react';
 import emailjs from 'emailjs-com'
 import { useState } from 'react';
+import swal from 'sweetalert';
 
 
 
@@ -19,6 +20,12 @@ const Contact = () => {
     emailjs.sendForm('service_bzslk9m', 'template_owi1gm7', form.current, 'P5dvbpBiTb2SfsfkA').then(() => {
       ''
     })
+
+    swal("Sent Successfully!", {
+      buttons: false,
+      timer: 2000,
+    });
+
     e.target.reset()
   
   };
@@ -26,7 +33,7 @@ const Contact = () => {
   return (
     
     <section id='contact'>
-      
+
       <div className="container contact__container">
         <div className="contact__options">
           <article className="contact__option">
@@ -54,12 +61,7 @@ const Contact = () => {
         <div className='contact__message'>
           <div className='contact__success' id='success'>Message Sent</div>
         </div>
-
-        {/* 
-        swal("This modal will disappear soon!", {
-  buttons: false,
-  timer: 3000,
-}); */}
+        
 
       </div>
       
