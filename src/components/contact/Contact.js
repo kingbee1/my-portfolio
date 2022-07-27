@@ -23,7 +23,7 @@ const Contact = () => {
 
     swal("Sent Successfully!", {
       buttons: false,
-      timer: 2000,
+      timer: 1000,
     });
 
     e.target.reset()
@@ -56,12 +56,7 @@ const Contact = () => {
           <input type='email' name='email' placeholder='Your email address' required />
           <textarea name='message' rows='7' placeholder='Type your message' required></textarea>
           <button type='submit' className='btn btn-primary' onClick={() => setIsSend({isSend})} >Send Message</button>
-        </form>
-
-        <div className='contact__message'>
-          <div className='contact__success' id='success'>Message Sent</div>
-        </div>
-        
+        </form>    
 
       </div>
       

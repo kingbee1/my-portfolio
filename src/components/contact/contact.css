@@ -51,22 +51,7 @@ input, textarea {
     color: var(--color-white);
 }
 
-.contact__message {
-    width: 100%;
-    position: relative;
-    margin-bottom: 60px;
-    display: flex;
-    justify-content: center;
-}
 
-.contact__message .contact__success {
-    font-size: 20px;
-    color: var(--color-primary-variant);
-    position: absolute;
-    animation: buttons .3s linear;
-    display: none;
-
-}
 
 @media screen and (max-width:1024px) {
     .container.contact__container  {

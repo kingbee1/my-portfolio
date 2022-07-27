@@ -44,10 +44,10 @@ const About = () => {
             </article>
           </div>
 
-          <p>I am an easy going person that just finds peace in getting to the root of a problem 
-            and solving it.
-            I love building apps that solve everyday challenge of people around me because the goal
-            is to make the world a better place by writing onr line of code at a time.
+          <p>I am software developer that finds peace in getting to the root of a problem 
+            and solving it. I have built quite a number of projects which can be found as scroll further.
+            I build applications that solve specific problems presented to me at the time. The goal
+            is to make the world a better place by writing one line of code at a time.
             If you are willing and ready to turn ideas into reality, then we should talk.
           </p>
 

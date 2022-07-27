@@ -11,7 +11,7 @@ const Services = () => {
       <div className="container services__container">
         <articles className="service">
           <div className="service__head">
-            <h3>UI/UX Design</h3>
+            <h3>Web Development</h3>
           </div>
           <ul className="service__list">
             <li>
@@ -43,12 +43,12 @@ const Services = () => {
         
         <articles className="service">
           <div className="service__head">
-            <h3>Web Development</h3>
+            <h3>UI/UX Design</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon"/> 
-              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nam nulla magnam. </p>
+              <p>I use various techniques to research target audience and design superior user experience. </p>
             </li>
 
             <li>
