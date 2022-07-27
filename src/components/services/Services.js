@@ -14,17 +14,17 @@ const Services = () => {
             <h3>Web Development</h3>
           </div>
           <ul className="service__list">
+
             <li>
               <BiCheck className="service__list-icon"/> 
-              <p>I build fully responsive web applications. </p>
+              <p>I build fully responsive web applications from scratch.</p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"/> 
-              <p> I improve an already existing application or website visually and  
-                functionally by using better designs and modern technology. 
-              </p>
+              <p>I improve already existing website application.</p>
             </li>
+            
           </ul>
         </articles>
         

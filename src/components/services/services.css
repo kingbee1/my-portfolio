@@ -32,12 +32,12 @@
 }
 
 .service__list {
-    padding: 2rem;
+    padding: 3rem;
 }
 
 .service__list li {
     display: flex;
-    gap: 4rem;
+    gap: 3rem;
     margin: 0.8rem;
 }
 
@@ -48,6 +48,7 @@
 
 .service__list p {
     font-size: 0.9rem;
+    text-align: justify;
 }
 
 @media screen and (max-width:1024px) {
