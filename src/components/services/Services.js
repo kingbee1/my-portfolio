@@ -16,27 +16,12 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon"/> 
-              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nam nulla magnam. </p>
+              <p>I build fully responsive web applications. </p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"/> 
-              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nam nulla magnam. </p>
-            </li>
-
-            <li>
-              <BiCheck className="service__list-icon"/> 
-              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nam nulla magnam. </p>
-            </li>
-
-            <li>
-              <BiCheck className="service__list-icon"/> 
-              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nam nulla magnam. </p>
-            </li>
-
-            <li>
-              <BiCheck className="service__list-icon"/> 
-              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nam nulla magnam. </p>
+              <p> I improve an already existing application or website visually and functionally by using better designs and modern technology. </p>
             </li>
           </ul>
         </articles>
@@ -48,54 +33,24 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon"/> 
-              <p>I use various techniques to research target audience and design superior user experience. </p>
+              <p>I create sketches,prototype and visual mockups using figma.</p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"/> 
-              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nam nulla magnam. </p>
-            </li>
-
-            <li>
-              <BiCheck className="service__list-icon"/> 
-              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nam nulla magnam. </p>
-            </li>
-
-            <li>
-              <BiCheck className="service__list-icon"/> 
-              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
-            </li>
-
-            <li>
-              <BiCheck className="service__list-icon"/> 
-              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. </p>
+              <p>I create easy to use intuitive user interface that are cutting edge.</p>
             </li>
           </ul>
         </articles>
 
-        <articles className="service">
+        {/* <articles className="service">
           <div className="service__head">
             <h3>Technical Writing</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon"/> 
-              <p>I make technical jargons easily understandable to a lain man.</p>
-            </li>
-
-            <li>
-              <BiCheck className="service__list-icon"/> 
-              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nam nulla magnam. </p>
-            </li>
-
-            <li>
-              <BiCheck className="service__list-icon"/> 
-              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nam nulla magnam. </p>
-            </li>
-
-            <li>
-              <BiCheck className="service__list-icon"/> 
-              <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nam nulla magnam. </p>
+              <p>I make technical jargons easily understandable to a layman.</p>
             </li>
 
             <li>
@@ -103,7 +58,7 @@ const Services = () => {
               <p>I build Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam nam nulla magnam. </p>
             </li>
           </ul>
-        </articles>
+        </articles> */}
 
 
       </div>

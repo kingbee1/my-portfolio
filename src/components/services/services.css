@@ -1,7 +1,7 @@
 .services__container {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 3rem;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 6rem;
 }
 
 .service {
@@ -43,7 +43,7 @@
 
 .service__list-icon {
     color: var(--color-primary);
-    margin-top: 3px;
+    margin-top: 2px;
 }
 
 .service__list p {

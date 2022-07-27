@@ -11,5 +11,6 @@ I built this project using Reactjs and hosted it on vercel, [click here](https:/
 * React icons
 * Swiper
 * Emaijs
+* Swal
 
 Feel free to share your views with me, I will reall appreciate that.  You can also be a contributor to this or any of my [projects](https://github.com/kingbee1?tab=repositories). Cheers! :beers:

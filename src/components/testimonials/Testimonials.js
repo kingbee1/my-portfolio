@@ -18,7 +18,7 @@ const data = [
   {
     avatar: avt1,
     name: 'Mary Ola',
-    review: 'Kingbee is an awesome person, it was really a pleasure working with him. He went in and out for me. I will definitely work with him over and over again'
+    review: 'Kingbee is an awesome person, it was really a pleasure working with him. He went above and beyond for me. I will definitely work with him over and over again.'
   },
   {
     avatar: avt2,
