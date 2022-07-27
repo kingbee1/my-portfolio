@@ -35,7 +35,7 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon"/> 
-              <p>I create sketches,prototype and visual mockups using figma.</p>
+              <p>I create sketches, prototype and visual mockups using figma.</p>
             </li>
 
             <li>
