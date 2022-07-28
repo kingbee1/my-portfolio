@@ -66,3 +66,16 @@ input, textarea {
         gap: 2rem;
     }
 }
+
+@media only screen and (min-width: 1024px) and (max-width: 1200px)  {
+    .service__list {
+        padding: 2rem;
+    }
+    .contact__option {
+        padding: 0.2rem;
+    }
+
+    .contact__option h5 {
+        font-size: 0.7rem;
+    }
+}

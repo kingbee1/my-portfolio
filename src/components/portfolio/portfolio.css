@@ -37,6 +37,13 @@
     margin-bottom: 1rem;
 }
 
+@media only screen and (min-width: 1024px) and (max-width: 1200px)  {
+    .portfolio__container {
+        grid-template-columns: 1fr 1fr;
+        gap: 2rem;
+    }
+}
+
 @media screen and (max-width:1024px) {
     .portfolio__container {
         grid-template-columns: 1fr 1fr;
