@@ -4,7 +4,7 @@ import ME from '../../assets/me2.png'
 import { FaAward } from 'react-icons/fa'
 import { FaUsers } from 'react-icons/fa'
 import { RiFolderOpenFill } from 'react-icons/ri'
-import swal from 'sweetalert'
+//import swal from 'sweetalert'
 
 
 
@@ -28,7 +28,7 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__card-icon' />
               <h5>Experience</h5>
-              <small>3+ Years Working mate</small>
+              <small>3+ Years Working Experience</small>
             </article>
 
             <article className='about__card'>
@@ -45,10 +45,10 @@ const About = () => {
           </div>
 
           <p>I am software developer that finds peace in getting to the root of a problem 
-            and solving it. I have built quite a number of projects which can be found as scroll further.
+            and solving it. I have built quite a number of projects which can be found as you scroll further.
             I build applications that solve specific problems presented to me at the time. The goal
             is to make the world a better place by writing one line of code at a time.
-            If you are willing and ready to turn ideas into reality, then we should talk.
+            If you are willing and ready to turn ideas into reality, we should definitely talk.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

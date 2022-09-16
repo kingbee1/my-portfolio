@@ -30,17 +30,17 @@ const Services = () => {
         
         <articles className="service">
           <div className="service__head">
-            <h3>UI/UX Design</h3>
+            <h3>Growth Hacking</h3>
           </div>
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon"/> 
-              <p>I create sketches, prototype and visual mockups using figma.</p>
+              <p>I research on new and innovative ways to reach target audiences.</p>
             </li>
 
             <li>
               <BiCheck className="service__list-icon"/> 
-              <p>I create easy to use intuitive user interface that are cutting edge.</p>
+              <p>I track website performance  with data analysis tools and identify opportunities for improvement.</p>
             </li>
           </ul>
         </articles>
